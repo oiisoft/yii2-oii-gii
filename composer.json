@@ -1,0 +1,21 @@
+{
+    "name": "oiisoft/yii2-oii-gii",
+    "description": "OII gii",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "lihezhao",
+            "email": "lihezhao@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "oii\\gii\\": ""
+        }
+    }
+}
